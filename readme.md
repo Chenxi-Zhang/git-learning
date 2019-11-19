@@ -8,3 +8,4 @@
 * `git reset --hard HEAD^`
 * `git reflog`
 * `git diff`
+* Here is the different place.
