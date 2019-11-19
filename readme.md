@@ -7,3 +7,4 @@
 * `git log`
 * `git reset --hard HEAD^`
 * `git reflog`
+* `git diff`
