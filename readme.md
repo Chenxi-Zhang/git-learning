@@ -10,3 +10,4 @@
 * `git diff`
 * Here is the different place.
 * `git checkout -- readme.md`
+* `git reset HEAD readme.md`, if the file is already in staged place.
