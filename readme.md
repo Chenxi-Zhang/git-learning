@@ -6,3 +6,4 @@
 * `git commit`
 * `git log`
 * `git reset --hard HEAD^`
+* `git reflog`
