@@ -13,11 +13,7 @@
 * `git reset HEAD readme.md`, if the file is already in staged place.
 * `git remote add origin git@***.git`
 * `git checkout -b dev`, `git branch [***]`, `git branch -d [***]`
-<<<<<<< HEAD
-* `git merge [***]`. Now I'm fixing issue. 
-=======
 * `git merge [***]`. Now I'm fixing issue. `git merge --no-ff`
 * `git stash`
 * `git cherry-pick [******]`
 * `git branch -D [***]`
->>>>>>> dev
