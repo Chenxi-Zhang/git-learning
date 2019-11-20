@@ -18,3 +18,4 @@
 * `git cherry-pick [******]`
 * `git branch -D [***]`
 * Teamwork too!
+* `git pull`
