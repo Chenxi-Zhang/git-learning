@@ -11,3 +11,5 @@
 * Here is the different place.
 * `git checkout -- readme.md`
 * `git reset HEAD readme.md`, if the file is already in staged place.
+* `git remote add origin git@***.git`
+* 
