@@ -17,9 +17,5 @@
 * `git stash`
 * `git cherry-pick [******]`
 * `git branch -D [***]`
-<<<<<<< HEAD
 * Teamwork too!
 * `git pull`
-=======
-* Teamwork. Create a dev branch. 
->>>>>>> fd24f33317d2c590417ae0358cbd93dd510ac0bc
