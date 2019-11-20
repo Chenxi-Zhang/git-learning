@@ -17,3 +17,4 @@
 * `git stash`
 * `git cherry-pick [******]`
 * `git branch -D [***]`
+* Teamwork too!
