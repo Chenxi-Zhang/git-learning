@@ -16,3 +16,4 @@
 * `git merge [***]`. Now I'm fixing issue. `git merge --no-ff`
 * `git stash`
 * `git cherry-pick [******]`
+* `git branch -D [***]`
