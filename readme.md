@@ -18,3 +18,4 @@
 * `git cherry-pick [******]`
 * `git branch -D [***]`
 * Teamwork. Create a dev branch. 
+* `git tag -a [tagname] -m "[message]"`, `git show v1.0`
